@@ -1,0 +1,25 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+#
+# Добавь сюда ссылки на стримы
+# По одной ссылке на строку
+#
+# Пустые строки и строки начинающиеся с # игнорируются
+#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+# Примеры ссылок
+# https://play.dreamerscast.com/75590a52-4d5e-4c29-bf26-a9f6ccc34e3a/7123a324-0cb8-42a4-9631-2085d62af7b0_,1080,720,low,audio,.mp4.urlset/manifest.mpd
+# https://play.dreamerscast.com/46552c50-bd6f-45a6-9a0f-2159897a5ef6/44bed900-5e1d-4032-a76c-7307978de0db_,1080,720,low,audio,.mp4.urlset/manifest.mpd
+# https://play.dreamerscast.com/92579906-6747-494a-a157-af95cccd505b/8b762984-d937-430a-9afc-a57c95235b11_,1080,720,low,audio,.mp4.urlset/manifest.mpd
+# https://play.dreamerscast.com/ab8dc141-4ac8-4211-b34b-279cd6e9dd55/84c75ae9-b6e7-4726-ba84-1eb79965b3e7_,1080,720,low,audio,.mp4.urlset/manifest.mpd
+# https://play.dreamerscast.com/6edcddad-8334-4b86-acb0-20cca6c92d3d/55c4a47a-4f7a-4278-a689-884782dccca0_,1080,720,low,audio,.mp4.urlset/manifest.mpd
+# https://play.dreamerscast.com/ba3d3580-7b14-4562-b113-6eed40650725/a2fdfdb8-5fa8-4bc5-965e-6eeff4d8e5dd_,1080,720,low,audio,.mp4.urlset/manifest.mpd
+# https://play.dreamerscast.com/3fddd3d3-baa1-4509-8764-933a051c5b81/7d4ca345-740f-41b5-9460-87adc0658dfa_,1080,720,low,audio,.mp4.urlset/manifest.mpd
+# https://play.dreamerscast.com/a6da3615-e18c-4abe-a353-a14f751706b3/c44beb43-fb3e-4098-b4f0-ca26e12d3a2b_,1080,720,low,audio,.mp4.urlset/manifest.mpd
+# https://play.dreamerscast.com/f22dc8c2-3d12-4ea7-972a-ff31bb926574/3b75dd07-63e9-4a64-b43e-d2d380a5a1c6_,1080,720,low,audio,.mp4.urlset/manifest.mpd
+# https://play.dreamerscast.com/a0d6cc0a-4b0b-49a0-ab32-1b7694a88d40/7b3510fc-9746-47c5-b50d-bad52f466f35_,1080,720,low,audio,.mp4.urlset/manifest.mpd
+# https://play.dreamerscast.com/ced47ce5-e513-4b01-8545-beee553065c7/d9edd7db-d3d8-4486-83d7-c5a248387f56_,1080,720,low,audio,.mp4.urlset/manifest.mpd
+# https://play.dreamerscast.com/80a86cdd-1743-4526-b24e-29e9fe2c2cab/5cadbee1-4dea-4c1f-8eeb-28b04a827079_,1080,720,low,audio,.mp4.urlset/manifest.mpd
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
